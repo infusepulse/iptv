@@ -1,5 +1,263 @@
 #EXTM3U
 
+#EXTINF:-1,AR - ART AFLAM 1
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/984.ts
+
+#EXTINF:-1,AR - ART AFLAM 2
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/983.ts
+
+#EXTINF:-1,AR - ART CINEMA
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/982.ts
+
+#EXTINF:-1,AR - ART HEKAYAT 1
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/981.ts
+
+#EXTINF:-1,AR - ART HEKAYAT 2
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/980.ts
+
+#EXTINF:-1,MYHD PREMIUM - Cinemachi Kidz HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/31291.ts
+
+#EXTINF:-1,MYHD PREMIUM - BBC English HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/31292.ts
+
+#EXTINF:-1,MYHD PREMIUM - CNN HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/31289.ts
+
+#EXTINF:-1,MYHD PREMIUM - DW HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/31286.ts
+
+#EXTINF:-1,MYHD PREMIUM - Animal Planet HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/31293.ts
+
+#EXTINF:-1,MYHD PREMIUM - Discovery SC HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/31288.ts
+
+#EXTINF:-1,MYHD PREMIUM - PLANET EARTH HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/31253.ts
+
+#EXTINF:-1,MYHD PREMIUM - FIX FOXI HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/31283.ts
+
+#EXTINF:-1,MYHD PREMIUM - FILM BOX HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/31284.ts
+
+#EXTINF:-1,MYHD PREMIUM - FOX REWAYAT HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/31278.ts
+
+#EXTINF:-1,MYHD PREMIUM - FOX CRIME HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/31281.ts
+
+#EXTINF:-1,MYHD PREMIUM - FX HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/31277.ts
+
+#EXTINF:-1,MYHD PREMIUM - STAR MOVIES HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/31252.ts
+
+#EXTINF:-1,MYHD PREMIUM - STAR WORLD HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/31251.ts
+
+#EXTINF:-1,MYHD PREMIUM - Cinemachi Movies HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/31290.ts
+
+#EXTINF:-1,MYHD PREMIUM - Docubox HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/31287.ts
+
+#EXTINF:-1,MYHD PREMIUM - Fight Box HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/31285.ts
+
+#EXTINF:-1,MYHD PREMIUM - FOX ACTION MOVIES HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/31282.ts
+
+#EXTINF:-1,MYHD PREMIUM - FOX FAMILY MOVIES HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/31280.ts
+
+#EXTINF:-1,MYHD PREMIUM - FOX LIFE HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/31279.ts
+
+#EXTINF:-1,MYHD PREMIUM - GUEST HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/31276.ts
+
+#EXTINF:-1,MYHD PREMIUM - GULLI BIL ARABIE HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/31275.ts
+
+#EXTINF:-1,MYHD PREMIUM - ITV CHOICE HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/31274.ts
+
+#EXTINF:-1,MYHD PREMIUM - LAAB WA JAD HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/31273.ts
+
+#EXTINF:-1,MYHD PREMIUM - MYZEN HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/31256.ts
+
+#EXTINF:-1,MYHD PREMIUM - NAHAR DRAMA HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/31255.ts
+
+#EXTINF:-1,MYHD PREMIUM - NAHAR ONE HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/31254.ts
+
+#EXTINF:-1,MYHD PREMIUM - MUSIC ALWAYS HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/31260.ts
+
+#EXTINF:-1,MYHD PREMIUM - MUSIC TROPICAL HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/31259.ts
+
+#EXTINF:-1,MYHD PREMIUM - MUSIC24 HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/31258.ts
+
+#EXTINF:-1,MYHD PREMIUM - WOW SPORT HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/31250.ts
+
+#EXTINF:-1,MYHD PREMIUM - MY CINEMA HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/31257.ts
+
+#EXTINF:-1,AR - ROTANA AFLAM HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/21268.ts
+
+#EXTINF:-1,AR - ROTANA CINEMA HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/21267.ts
+
+#EXTINF:-1,AR - ROTANA CLASSIC HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/21266.ts
+
+#EXTINF:-1,AR - ROTANA KHALIJIA HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/21265.ts
+
+#EXTINF:-1,AR - ROTANA MASRIYA HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/21264.ts
+
+#EXTINF:-1,AR - ROTANA MUSIC HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/21263.ts
+
+#EXTINF:-1,AR - ROTANA
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/966.ts
+
+#EXTINF:-1,AR - ROTANA CINEMA
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/964.ts
+
+#EXTINF:-1,AR - ROTANA CINEMA KSA
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/963.ts
+
+#EXTINF:-1,AR - ROTANA CLASSIC
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/962.ts
+
+#EXTINF:-1,AR - ROTANA CLIP
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/965.ts
+
+#EXTINF:-1,AR - ROTANA DRAMA
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/961.ts
+
+#EXTINF:-1,AR - ROTANA KHALIJIAH
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/960.ts
+
+#EXTINF:-1,AR - ABUDHABI SPORTS 1 HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/22039.ts
+
+#EXTINF:-1,AR - ABUDHABI SPORTS 2 HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/22038.ts
+
+#EXTINF:-1,AR - ABUDHABI SPORTS 3 HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/22037.ts
+
+#EXTINF:-1,AR - ABUDHABI SPORTS 4 HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/22036.ts
+
+#EXTINF:-1,AR - ABUDHABI SPORTS 5 HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/22035.ts
+
+#EXTINF:-1,AR - ABUDHABI SPORTS 6 HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/22034.ts
+
+#EXTINF:-1,##### BEIN MOVIES #####
+http://borg.hopto.org:8090/html/greetings.mp4
+
+#EXTINF:-1,AR - 4K - BEIN MOVIES 1 HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/27974.ts
+
+#EXTINF:-1,AR - 4K - BEIN MOVIES 2 HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/27973.ts
+
+#EXTINF:-1,AR - 4K - BEIN MOVIES 3 HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/27972.ts
+
+#EXTINF:-1,AR - 4K - BEIN MOVIES 4 HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/27971.ts
+
+#EXTINF:-1,AR - BEIN AMC HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/27954.ts
+
+#EXTINF:-1,AR - BEIN FOX ACTION MOVIES HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/27948.ts
+
+#EXTINF:-1,AR - BEIN FOX FAMILY MOVIES HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/27947.ts
+
+#EXTINF:-1,##### BEIN MOVIES 4K #####
+http://borg.hopto.org:8090/html/greetings.mp4
+
+#EXTINF:-1,AR - BEIN MOVIES 1 HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/27979.ts
+
+#EXTINF:-1,AR - BEIN MOVIES 2 HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/27978.ts
+
+#EXTINF:-1,AR - BEIN MOVIES 3 HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/27977.ts
+
+#EXTINF:-1,AR - BEIN MOVIES 4 HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/27976.ts
+
+#EXTINF:-1,##### BEIN SERIAL & MOVIES #####
+http://borg.hopto.org:8090/html/greetings.mp4
+
+#EXTINF:-1,AR - BEIN SERIES 1 HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/27969.ts
+
+#EXTINF:-1,AR - BEIN SERIES 2 HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/27968.ts
+
+#EXTINF:-1,AR - BEIN BARAEM HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/27964.ts
+
+#EXTINF:-1,AR - BEIN DRAMA 1 HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/27967.ts
+
+#EXTINF:-1,AR - BEIN FOX HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/27960.ts
+
+#EXTINF:-1,AR - BEIN BEJUNIOR
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/27963.ts
+
+#EXTINF:-1,AR - BEIN BOOMERANG HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/27953.ts
+
+#EXTINF:-1,AR - BEIN CARTON NETWORK HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/27962.ts
+
+#EXTINF:-1,AR - BEIN FATAFEAT
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/27961.ts
+
+#EXTINF:-1,AR - BEIN JEEM HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/27958.ts
+
+#EXTINF:-1,AR - BEIN DISCOVERY KIDS HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/27952.ts
+
+#EXTINF:-1,AR - BEIN DISCOVERY LIFE HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/27951.ts
+
+#EXTINF:-1,AR - BEIN DISCOVERY MAX HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/27950.ts
+
+#EXTINF:-1,AR - BEIN DISCOVERY TURBO XTRA
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/27949.ts
+
+#EXTINF:-1,AR - BEIN GOURMETHD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/27965.ts
+
+#EXTINF:-1,AR - BEIN HGTV HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/27959.ts
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/YwZsGFd.png" group-title="INFO",* Fluxus Cinema English
 http://149.56.23.7:20082/stream
 
@@ -13247,168 +13505,4 @@ https://stitcher.pluto.tv/stitch/hls/channel/5c6eeb011846c82e15e01a99/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/5877acecb16bb1e042ee453f/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=400lm1j6kehed04ucl6d6fc4q7
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e94282d4ec87bdcbb87cd/featuredImage.jpg" group-title="24/7 PLUTO TV",Westerns
-https://stitcher.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=pb3stkgum0jt2soq367mu97333
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/a78b9f26-908f-f0cf-60ae-6230239b5158-WHAT-!_featured.jpg" group-title="24/7 PLUTO TV",What?!
-http://stitcher.pluto.tv/stitch/hls/channel/5808e8c360976cdc1b19d374/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58e2cd77a84e99942f414e68/featuredImage.jpg" group-title="24/7 PLUTO TV",What's On?
-http://stitcher.pluto.tv/stitch/hls/channel/58e2cd77a84e99942f414e68/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ab3e1242be690697279c75d/featuredImage.jpg" group-title="24/7 PLUTO TV",Wipeout
-http://stitcher.pluto.tv/stitch/hls/channel/5ab3e1242be690697279c75d/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/decd85f0-6e26-46f0-9fd8-0a1e656dfe9a-wpt_featured.jpg" group-title="24/7 PLUTO TV",World Poker Tour
-http://stitcher.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://alliantcontent.com/wp-content/uploads/2011/05/Xive-Logo-Black-300x132.png" group-title="24/7 PLUTO TV",XiveTV
-http://stitcher.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c363ac9e41be30cb6054c7c/featuredImage.jpg" group-title="24/7 PLUTO TV",Yu-Gi-Oh! 5D’s
-https://stitcher.pluto.tv/stitch/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=b45b9ea1nuf9ijm985tiag4ge6
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/es.pokemon/images/0/06/Jigglypuff_%28anime_AG%29.png" group-title="24/7 MANDARIN",Anime
-http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Detective_Conan_logo.svg/1280px-Detective_Conan_logo.svg.png" group-title="24/7 MANDARIN",Case Closed
-http://alhls.cdn.zhanqi.tv/zqlive/219628_O3y9l.m3u8
- 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/dragonball/images/9/9b/Dragon_Ball_Z_Logo.png" group-title="24/7 MANDARIN",Dragon Ball Z
-http://alhls.cdn.zhanqi.tv/zqlive/197952_NHycj.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.stickpng.com/assets/images/580b57fbd9996e24bc43bd6a.png" group-title="24/7 MANDARIN",Harry Potter Films
-http://aldirect.hls.huya.com/huyalive/29169025-2686221528-11537233612571148288-2847687610-10057-A-1523932939-1_1200.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="24/7 MANDARIN",Hollywood Movies 1
-http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="24/7 MANDARIN",Hollywood Movies 2
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="24/7 MANDARIN",Hollywood Movies 3
-http://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8?thebestfreeenglishchannels.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="24/7 MANDARIN",Hollywood Movies 4
-http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="24/7 MANDARIN",Hollywood Movies 5
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="24/7 MANDARIN",Hollywood Movies 6
-http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="24/7 MANDARIN",Hollywood Movies 7
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="24/7 MANDARIN",Hollywood Movies 8
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="24/7 MANDARIN",Hollywood Movies 9
-http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="24/7 MANDARIN",Hollywood Movies 10
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1 tvg-logo="https://pics.prcm.jp/dea3d5a8dcd76/53796588/png/53796588.png" group-title="24/7 MANDARIN",Kuroko's Basketball
-http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9pz9Jx3gtOc/maxresdefault.jpg" group-title="24/7 MANDARIN",Mandarin Movies
-http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-DKhTfvcDZf8/UDFvF4pjZzI/AAAAAAAADXs/gNoEWv8nEGo/s1600/title.jpg" group-title="24/7 MANDARIN",Mandarin Series
-http://dlhls.cdn.zhanqi.tv/zqlive/34338_PVMT5.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/animeandmangauniverse/images/4/48/Naruto_Shippūden_Logo.png" group-title="24/7 MANDARIN",Naruto Shippuden
-http://dlhls.cdn.zhanqi.tv/zqlive/41832_NfsIa.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg" group-title="24/7 MANDARIN",Top Movies 1
-http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg" group-title="24/7 MANDARIN",Top Movies 2
-http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg" group-title="24/7 MANDARIN",Top Movies 3
-http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg" group-title="24/7 MANDARIN",Top Movies 4
-http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg" group-title="24/7 MANDARIN",Top Movies 5
-http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn_1024/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg" group-title="24/7 MANDARIN",Top Movies 6
-http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg" group-title="24/7 MANDARIN",Top Movies 7
-http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="LABEL",~ USA Geo-Blocked TV ~
-http://www.lengua.com/anthems/USA.mp3
- 
-#EXTINF:-1 tvg-logo="https://wwwimage-secure.cbsstatic.com/thumbnails/photos/w1200-h630-c1200:630/blog/87fdad6e1b37da4a_cbs_sports_hq_1920.jpg" group-title="USA GEO",CBS Sports HQ (Geo)
-https://cbssportsdc-i.akamaihd.net/hls/live/518856/dc_1/desktop.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Charge%21_network_logo.png" group-title="USA GEO",Charge! (Geo)
-https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZIZZG8v.png" group-title="USA GEO",Comet TV (Geo)
-http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nGIOiF6.png" group-title="USA GEO",Discovery Velocity (Geo)
-http://195.181.169.148/Discovery_velocity_121_Eng/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="USA GEO",Food Network (Geo)
-http://195.181.169.148/FOODNETHD_USA_Eng/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dfaJpw4.png" group-title="USA GEO",Hallmark Movies & Mysteries (Geo)
-http://crownmediaingest.akamaized.net/hls/live/567739/mm/master.m3u8?hdnts=exp=3053348551~acl=/*~hmac=592bc88702cf4f549f6fa1233adcf78fdff0209e062d72a244dce61650291d26
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/KidsClickLogo.png" group-title="USA GEO",Kids Click (Geo)
-https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8?tc=1&exp=1614631202&rn=1698140798&ct=c&cid=1698bf57810a48c486b83d542bca298d&repl=aboi&sig=3c0463729cd2ddcb9509c3130849b8737dd917ccbaafaccb832d0ec43cae6db5
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gjBAU2S.png" group-title="USA GEO",NFL Now (Geo)
-https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/800px-OWN_2011_logo.svg.png" group-title="USA GEO",Oprah Winfrey Network (Opt-1) (Geo)
-http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/2596k/index.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/800px-OWN_2011_logo.svg.png" group-title="USA GEO",Oprah Winfrey Network (Opt-2) (Geo)
-http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/4296k/index.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.lagovista.lib.tx.us/PBS%20Kids.jpg/@@images/image.jpeg" group-title="USA GEO",PBS Kids (Geo)
-http://live-cdn.pbskids.org/out/u/aim/wttw.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.lagovista.lib.tx.us/PBS%20Kids.jpg/@@images/image.jpeg" group-title="USA GEO",PBS Kids (EST) (Geo)
-http://live-cdn.pbskids.org/out/u/est.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.lagovista.lib.tx.us/PBS%20Kids.jpg/@@images/image.jpeg" group-title="USA GEO",PBS Kids (PST) (Geo)
-http://live-cdn.pbskids.org/out/u/pst.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.scribblrs.com/wp-content/uploads/2017/07/tbs.png" group-title="USA GEO",TBS (Geo)
-http://195.181.169.148/TBS_Eng/tracks-v1a1/mono.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="USA GEO",Sony Movie Channel (Geo)
-http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://desdelapelouse.files.wordpress.com/2012/06/canada.png" group-title="LABEL",~ Canada Geo-Blocked TV ~
-http://www.lengua.com/anthems/Canada.mp3
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/cbcnews-300.png" group-title="CANADA GEO",CBC News Network (Geo)
-https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/CHCH2010.svg/1200px-CHCH2010.svg.png" group-title="CANADA GEO",CHCH (Geo)
-https://bcovlive-a.akamaihd.net/8919eed04a6e4279be1f434a4063df6a/us-west-2/5644964886001/playlist.m3u8?fluxustv.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/1200px-Global_Television_Network_Logo.svg.png" group-title="CANADA GEO",Global BC (Geo)
-https://glblvestu-f.akamaihd.net/i/glblvPSTu_1@80128/master.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/1200px-Global_Television_Network_Logo.svg.png" group-title="CANADA GEO",Global Calgary (Geo)
-https://glblvmstu-f.akamaihd.net/i/glblvMSTu_1@80127/master.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/1200px-Global_Television_Network_Logo.svg.png" group-title="CANADA GEO",Global Edmonton (Geo)
-https://glblvedmonton-lh.akamaihd.net/i/glblvEdmonton_1@119844/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/1200px-Global_Television_Network_Logo.svg.png" group-title="CANADA GEO",Global Halifax (Geo)
-https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/1200px-Global_Television_Network_Logo.svg.png" group-title="CANADA GEO",Global Toronto (Geo)
-https://glblvestu-f.akamaihd.net/i/glblvestu_1@78149/master.m3u8
+https://stitcher.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion
